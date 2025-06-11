@@ -9,6 +9,11 @@
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.
 
 
+![Screenshot_68](https://github.com/user-attachments/assets/eee28167-4c43-447e-b1ac-5d63bdf6a66b)
+
+
+![Screenshot_69](https://github.com/user-attachments/assets/76acd8ca-79b3-4b9e-bd59-246cb4c075d6)
+
 
 
 
