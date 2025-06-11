@@ -34,6 +34,9 @@ $ pip install pika
 
 
 
+![Screenshot_75](https://github.com/user-attachments/assets/ca1bad48-f4a6-4ada-a4d0-be5a4a443a50)
+
+
 
 
 
